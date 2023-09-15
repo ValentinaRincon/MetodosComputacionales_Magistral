@@ -15,3 +15,7 @@ los valores de la raíces del polinomio. La otra fila es de los valores de los p
     Integral = 0.5*(b-a)*np.sum(Weights*f(t))
     
     """
+    
+
+
+
